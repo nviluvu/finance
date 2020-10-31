@@ -1,5 +1,5 @@
 ## ***Finance***    
-Random codes I use for finance
+Random codes I use for finance, there might be other alternatives but I do this for my own convenience; Anyways, I hope it's useful for anyone out there!
 
 #### Resources
 [Yahoo Finance](https://github.com/ranaroussi/yfinance)   
