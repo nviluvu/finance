@@ -1,4 +1,4 @@
-## finance
+## ***Finance***    
 Random codes I use for finance
 
 #### Resources
@@ -6,3 +6,5 @@ Random codes I use for finance
 [Numpy](https://github.com/numpy/numpy)   
 [Pandas](https://github.com/pandas-dev/pandas)  
 [Matplotlib](https://github.com/matplotlib/matplotlib)    
+
+![img](https://media.giphy.com/media/143CXApqg06MuI/giphy.gif)
