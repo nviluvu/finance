@@ -11,3 +11,7 @@ Utilizes [yfinance](https://github.com/ranaroussi/yfinance) to pull out the most
 Just make sure you have a csv (like provided) which seperate these stocks into sectors.
 
 ![sample](https://i.imgur.com/SkEs6fi.png)
+
+This code (from the sample-read file) basically reads every file and puts it into Dataframes, so you don't have to run the script every day, yay!
+
+![code](https://i.imgur.com/a6kNa9F.png)
